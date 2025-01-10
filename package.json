@@ -1,0 +1,25 @@
+{
+  "name": "barterx",
+  "version": "10.2.1",
+  "description": "HTTP server for BarterX app.",
+  "main": "10",
+  "scripts": {
+    "test": "5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vrushi14/BarterX.git"
+  },
+  "keywords": [
+    "HTTP",
+    "server",
+    "for",
+    "BARTERX"
+  ],
+  "author": "Vrushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vrushi14/BarterX/issues"
+  },
+  "homepage": "https://github.com/Vrushi14/BarterX#readme"
+}
